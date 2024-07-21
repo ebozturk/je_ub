@@ -43,3 +43,6 @@ Table: The Values for AUROC with Effect Sizes
 2) Landsheer JA. Interval of uncertainty: an alternative approach for the determination of decision thresholds, with an illustrative application for the prediction of prostate cancer. PloS one. 2016;11(11):e0166007.
 3) Landsheer H.: UncertainInterval: Uncertain Interval Methods for Three-Way Cut-Point Determination in Test Results. R Package Version 0.7. 0.
 4) Wickham H. ggplot2: elegant graphics for data analysis. Springer; 2016
+
+# Contact Information
+ebru.ztrk3@gmail.com or ebru.ozturk3@hacettepe.edu.tr
